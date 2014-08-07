@@ -11,6 +11,7 @@
 
 var _ = require('lodash');
 var Thing = require('./thing.model');
+debugger;
 
 // Get list of things
 exports.index = function(req, res) {

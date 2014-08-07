@@ -6,5 +6,5 @@ angular.module('showcolorsApp')
       .when('/admin', {
         templateUrl: 'app/admin/admin.html',
         controller: 'AdminCtrl'
-      });
+  });
   });
